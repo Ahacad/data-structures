@@ -23,10 +23,14 @@ No trailing whitespace at the end of lines.
 
 - All lower cases, and use underscores `_` to seperate words.
 
+### Class names
+
+- Class names use the CamalCase.
+
 ### Function names
 
-- Class methods use snake_case. Short, clear methods names may omit the underscore.
-- CamelCase. Accessors and mutators may use snake_case.
+- public methods and data use CamalCase.
+- private and protected methods and data use the small camalCase.
 
 ## Comments
 
